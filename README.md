@@ -30,3 +30,5 @@ __________________________
     Download youtube songs in Mp3-Format, just enter url to video, and the mp3 will be saved to your Downloads folder.  
 - ### Simple_Translator.py
     Very simple translator, type a word or sentence, and it will translate it to whatever language you'd like, just change the default "ru" to whatever language code you wish. 
+- ### matplotlibdemo.py
+    Very simple Matplotlib demonstration.  
